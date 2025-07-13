@@ -12,5 +12,5 @@ if (n_times){
   }
 }
 else {
-  console.log(argv[2] + "\nMissing size")
+  console.log("Missing size")
 }
